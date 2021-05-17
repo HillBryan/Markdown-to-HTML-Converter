@@ -15,5 +15,3 @@ To run the app:
 
   - ## `npm install`
   - ## `npm start`
-
-## To run the app type `npm start` in the console.
