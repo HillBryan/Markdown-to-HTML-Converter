@@ -8,11 +8,13 @@ algorithm developed by me.
 
 The haskell converter is run with express on a backend endpoint.
 
-Front-end made with HTML, CSS, Javascript, and Jquery
+Front-end made with HTML, CSS, Javascript, Bootstrap, and Jquery
+
+Back-end made with Node, Express, and ExecFile
 
 ---
 To run the app: 
 
   - ## `npm install`
   - ## `npm start`
-  - ## Open localhost:3000
+  - ## Open `localhost:3000`
